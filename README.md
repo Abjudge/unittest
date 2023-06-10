@@ -33,16 +33,3 @@ A console application for starting fundraise projects. The purpose of the applic
 ## Technologies Used
 
 - Python
-
-## Inspiration
-
-Some similar projects that inspired us include:
-
-- [GoFundMe](https://www.gofundme.com)
-- [Kickstarter](https://www.kickstarter.com)
-- [Crowdfunding.co](https://www.crowdfunding.co)
-
-## Contributors
-
-- [Moustafa Shahin](https://github.com/moustafashahin122)
-- [Mohamed Ashraf](https://github.com/mohamedashraf206)
