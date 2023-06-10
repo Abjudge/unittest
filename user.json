@@ -1,0 +1,10 @@
+[
+    {
+        "fName": "Test",
+        "lName": "User",
+        "password": "password123",
+        "email": "testuser@gmail.com",
+        "mobile": true,
+        "id": "b275d578-dcfb-4d28-a1b7-26511adbdd08"
+    }
+]
